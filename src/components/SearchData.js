@@ -81,7 +81,7 @@ function SearchData(props) {
                         </Typography>
                     </CardContent>
                     <CardActions>
-                        <Typography gutterBottom variant="h6" className={classes.detailText}> More Details </Typography> <IconButton
+                        <Typography gutterBottom variant="h6" className={classes.detailText}> Next Match Details </Typography> <IconButton
                             className={clsx(classes.expand, {
                                 [classes.expandOpen]: expanded,
                             })}
