@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PlayerAppDeploy/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/PlayerAppDeploy/static/js/main.8994515f.chunk.js",
+    "main.js.map": "/PlayerAppDeploy/static/js/main.8994515f.chunk.js.map",
+    "runtime-main.js": "/PlayerAppDeploy/static/js/runtime-main.ec1e18fb.js",
+    "runtime-main.js.map": "/PlayerAppDeploy/static/js/runtime-main.ec1e18fb.js.map",
+    "static/js/2.bafe3416.chunk.js": "/PlayerAppDeploy/static/js/2.bafe3416.chunk.js",
+    "static/js/2.bafe3416.chunk.js.map": "/PlayerAppDeploy/static/js/2.bafe3416.chunk.js.map",
+    "static/js/3.99ba8f27.chunk.js": "/PlayerAppDeploy/static/js/3.99ba8f27.chunk.js",
+    "static/js/3.99ba8f27.chunk.js.map": "/PlayerAppDeploy/static/js/3.99ba8f27.chunk.js.map",
+    "index.html": "/PlayerAppDeploy/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/PlayerAppDeploy/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.bafe3416.chunk.js.LICENSE.txt": "/PlayerAppDeploy/static/js/2.bafe3416.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec1e18fb.js",
+    "static/js/2.bafe3416.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.8994515f.chunk.js"
+  ]
+}
